@@ -1,2 +1,2 @@
 # hayyan-resolusi
-Repositori untuk menyimpan rencana hayyan kedepannya
+Repositori untuk latihan git dan github
