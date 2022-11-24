@@ -3,8 +3,9 @@ Rencana
 - Membuat project
   * kecil-kecilan
 - PHP frameworks
-  * belum tahu
+  * a
+  * b
 - JS frameworks
-  * belum tahu
+  * z
 
 - Rutin ikut koding day
