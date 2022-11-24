@@ -3,9 +3,9 @@ Rencana
 - Membuat project
   * kecil-kecilan
 - PHP frameworks
-  * a
-  * b
+  * ralavel
 - JS frameworks
-  * z
+  * react
+  * angular
 
 - Rutin ikut koding day
