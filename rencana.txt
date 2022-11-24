@@ -6,3 +6,5 @@ Rencana
   * belum tahu
 - JS frameworks
   * belum tahu
+
+- Rutin ikut koding day
