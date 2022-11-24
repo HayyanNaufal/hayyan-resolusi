@@ -1,5 +1,8 @@
 Rencana
 
 - Membuat project
+  * kecil-kecilan
 - PHP frameworks
+  * belum tahu
 - JS frameworks
+  * belum tahu
