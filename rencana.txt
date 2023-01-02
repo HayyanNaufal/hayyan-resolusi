@@ -8,4 +8,4 @@ Rencana
   * react
   * angular
 
-- Rutin ikut koding day
+- Rajin ikut koding day
